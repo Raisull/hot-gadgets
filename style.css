@@ -8,10 +8,6 @@
 .nav-link{
     color: gray;
 }
-/* #carousel-section{ */
-    background-image: url(images/bg-2.png);
-    background-repeat: no-repeat;
-}
 button{
     text-decoration: none;
     color: white;
@@ -30,4 +26,14 @@ button{
 .slider-text{
     color:blueviolet;
     margin-top: 2px;
+}
+.back-img{
+    background-image: url(images/bg-1.png);
+    background-repeat: no-repeat;
+    background-position:center;
+}
+.slider-section{
+    background-image: url(images/bg-2.png);
+    background-repeat: no-repeat;
+    background-position: left bottom;
 }
