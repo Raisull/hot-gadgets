@@ -45,3 +45,6 @@ button{
 .phones h5,.phones h3{
     text-align: center;
 }
+.phone{
+    border: none;
+}
